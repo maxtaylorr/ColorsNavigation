@@ -6,4 +6,9 @@
 //  Copyright © 2018 Max Taylor. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+struct Color {
+    let name: String
+    let uiColor: UIColor
+}
